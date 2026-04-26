@@ -1,4 +1,4 @@
-# OVH VPS Availability Checker 🚀
+# OVHCloud VPS Availability Checker 🚀
 
 A professional-grade Telegram bot and terminal monitor for tracking OVH VPS inventory across multiple regions, subsidiaries, and plans.
 
